@@ -1,4 +1,4 @@
-[![MasterHead](https://rijsat.com/wp-content/uploads/2021/07/github.png)
+![MasterHead](https://rijsat.com/wp-content/uploads/2021/07/github.png)
 <h1 align="center">Hi 👋, I'm Aishwarya Naik</h1>
 <h3 align="center">A Software Programmer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
